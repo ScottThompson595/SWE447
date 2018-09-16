@@ -81,4 +81,3 @@ function Square(gl, vertexShaderId, fragmentShaderId) {
 	};
 
 };
-
